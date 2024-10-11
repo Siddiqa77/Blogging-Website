@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  
+  body{
+    background-image: url("https://media4.giphy.com/media/TxVVB6PfWMjE4/200.webp?cid=790b76115yukdt2wm3yja817zqbahr8m0qu27hgnk8ed74f3&ep=v1_gifs_search&rid=200.webp&ct=g");
+    color: black;
+    
+  }
+
+/* .card{
+  transition: transform 0.5s ease-in-out;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+  transform: scale(1.03);
+} */
+
+.card {
+  padding-top: 100px;
+  transform-style: preserve-3d;
+  background-image: url("https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-position: center center;
+  width: 100%;
+  transition: all 0.5s ease-in-out;
+  border-radius: 10px;
+  
+  &:hover {
+      background-position: 80% 20%;
+      transform: rotate3d(0.5, 1, 0, 30deg);
+      filter: hue-rotate(150deg);
+  }
+}
+.card-title {
+  color: white;
+  font-size: 25px;
+  font-weight: 900;
+  transition: all 0.5s ease-in-out;
+  transform: translate3d(0px, 0px, 20px);
+  &:hover {
+      transform: translate3d(0px, 0px, 50px);
+  }
+}
+
+
+
+.button {
+  width: 130px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+  color: #000;
+  text-transform: uppercase;
+  font-weight: 600;
+  margin-left: 30px;
+  margin-bottom: 30px;
+  cursor: pointer;
+  display: inline-block;
+  border-radius: 10PX;
+}
+
+.button-2 {
+  color: black;
+  border: 2px solid black;
+  background-image: -webkit-linear-gradient(30deg, #ffffff 50%, transparent 50%);
+  background-image: linear-gradient(30deg, #f16806 50%, transparent 50%);
+  background-size: 400px;
+  background-repeat: no-repeat;
+  background-position: 0%;
+  -webkit-transition: background 300ms ease-in-out;
+  transition: background 300ms ease-in-out;
+}
+.button-2:hover {
+  background-position: 100%;
+  color: #FFF;
+  font-weight: 600;
+  background-color:#f97316;
+  border: 4px solid black;
+}
+
+
