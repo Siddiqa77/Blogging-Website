@@ -22,10 +22,10 @@ Imagine a future where all students receive personalized support and inclusive l
 
 While the promise of AI in education is compelling, only through responsible and informed adoption can AI truly fulfil its potential and ensure equitable access to quality education for all.
 
-In 2020, the World Economic Forum identified eight pivotal transformations needed to enhance education quality in the age of the Fourth Industrial Revolution – Education 4.0 Framework. As AI emerges as the defining technology of this era, 
-we can accelerate the adoption of Education 4.0 by using this technology and ensuring learners are equipped to thrive with it.o a future driven by smarter, faster, and more connected systems. Whether it is improving consumer experiences or
+In 2020, the World Economic Forum identified eight pivotal transformations needed to enhance education quality in the age of the Fourth Industrial Revolution Education 4.0 Framework. As AI emerges as the defining technology of this era, 
+we can accelerate the adoption of Education 4.0 by using this technology and ensuring learners are equipped to thrive with it is a future driven by smarter, faster, and more connected systems. Whether it is improving consumer experiences or
  pushing the boundaries of what quantum and AI systems can achieve, October 2024 stands out as a period rich with technological progress.With increasing interest in AI and education, the Education 4.0 Alliance sought to understand the current state and future promises of the technology for education. The latest report Shaping the Future of Learning:
-  The Role of AI in Education 4.0 shows four key promises that have emerged for AI to enable Education 4.0:
+  The Role of AI in Education 4.0 shows four key promises that have emerged for AI to enable Education 4.0.
       </p>
       
     </div>
