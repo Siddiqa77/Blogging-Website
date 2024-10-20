@@ -21,12 +21,12 @@ const About = () => {
       Tech Enthusiasts & Creators
       </h1>
       <p className="mb-8 leading-relaxed">
-      Welcome to Blogging Tech, your go-to hub for everything tech! We're passionate about exploring
+      Welcome to Blogging Tech, your go-to hub for everything tech! We&apos; re passionate about exploring
        the ever-evolving world of technology and sharing insights that can help developers, tech 
        enthusiasts, and innovators stay ahead of the curve.
        Our mission is to break down complex tech concepts into easily digestible, actionable
         information that empowers you to grow your skills and stay informed in this fast-paced industry.
-         Whether you're a seasoned developer or just starting your tech journey, you'll find content here 
+         Whether you're a seasoned developer or just starting your tech journey, you wl&apos; l find content here 
          that inspires and educates.
          we cover topics ranging from cutting-edge frontend development frameworks like React and Next.js 
          to the latest trends in web design, AI, and more. As a frontend developer and graphic designer,
