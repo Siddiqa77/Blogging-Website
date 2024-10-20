@@ -41,7 +41,7 @@ Web 3.0 has the potential to be just as disruptive and to usher in a significant
 
 Imagine a new kind of Internet that accurately translates what you type and understands what you say, whether through text, voice, or other media, and where all of the content you consume is more personalized than ever before. In the evolution of the Internet, you are about to enter a new era. It's been termed Web 3.0.
 
-But, exactly what is Web 3.0, how will it look, and how will it affect our lives? If you’re curious to know the above, you have reached the right place. In this tutorial, you will get all the answers to your questions related to Web 3.0. 
+But, exactly what is Web 3.0, how will it look, and how will it affect our lives? If you are curious to know the above, you have reached the right place. In this tutorial, you will get all the answers to your questions related to Web 3.0. 
 
 Basics to Advanced - Learn It All!
 Caltech PGP Full Stack DevelopmentExplore ProgramBasics to Advanced - Learn It All!

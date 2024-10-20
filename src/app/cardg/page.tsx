@@ -18,7 +18,7 @@ const Blog = () => {
       <p className="leading-relaxed text-lg mb-6 text-white">
       
       Stay informed on the latest cybersecurity threats, best practices for data protection, and tools to safeguard personal and organizational information.
-       Cybersecurity and data protection are words that people tend to use interchangeably. While they have similarities and often overlap, it’s kind of like discussing a rectangle and a square where both have four sides but are distinct shapes. In a digital world, your cybersecurity posture directly impacts your data protection and privacy initiatives. 
+       Cybersecurity and data protection are words that people tend to use interchangeably. While they have similarities and often overlap, it is kind of like discussing a rectangle and a square where both have four sides but are distinct shapes. In a digital world, your cybersecurity posture directly impacts your data protection and privacy initiatives. 
 
 Over the last few years, malicious actors have increased the number and speed of their attacks. According to the 2022 Verizon Data Breach Investigations Report, the median number of records compromised per breach in 2021 was 80,000. Additionally, the report noted that 8,465 Distributed Denial of Service (DDoS) attacks occurred in 2021, with four leading to confirmed data disclosure. In short, you can experience a cybersecurity incident without necessarily experiencing a data breach. 
 

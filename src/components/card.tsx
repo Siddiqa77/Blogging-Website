@@ -6,28 +6,31 @@ const Card = () => {
   return (
     <div>
 
-<div className="container px-5 py-24 mx-auto text-white">
+<div className="container px-5 py-24 mx-auto text-gray-50 font-bold text-md">
     
     <div className="flex flex-wrap m-4">
     <div className="p-4 md:w-1/3">
-        <div className=" card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className=" card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
-            src="https://eco-cdn.iqpc.com/eco/images/channel_content/images/aiguide.jpg"
+            src="https://media.geeksforgeeks.org/wp-content/uploads/20240319155102/what-is-ai-artificial-intelligence.webp"
             alt="carda"
           />
           <div className="p-6">
             
-            <h1 className="title-font text-lg font-medium card-title text-gray-900 mb-3">
-            AI & Technology
+            <h1 className="title-font text-lg font-medium card-title">
+            Artificial Intelligence
+            
             </h1>
             <p className="leading-relaxed mb-3">
             
-            In today’s rapidly evolving technological landscape, the intersection of artificial intelligence (AI) and education is not just a future possibility; it is imminent.
+             Rapidly evolving technological landscape, the intersection of artificial intelligence
+              (AI) and education is not just a future possibility.It has very great importance in our daily life.AI systems use algorithms, 
+              data.
             </p>
             <div className="flex items-center flex-wrap">
-            <Link href="/carda"><button className=" text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+            <Link href="/carda"><button className="inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -42,7 +45,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -61,7 +64,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className=" card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className=" card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://media.istockphoto.com/id/1346575545/photo/3d-render-of-social-media-business-concept.jpg?s=612x612&w=0&k=20&c=1083IFHVsot9K6aguY59kOLCWIijhPQT69oYJB9SYS0="
@@ -69,7 +72,7 @@ const Card = () => {
           />
           <div className="p-6">
             
-            <h1 className="title-font text-lg font-medium card-title text-gray-900 mb-3">
+            <h1 className="title-font text-lg font-medium card-title mb-3">
           SocialMedia & Digital Marketing
             </h1>
             <p className="leading-relaxed mb-3">
@@ -78,7 +81,7 @@ const Card = () => {
             </p>
             <div className="flex items-center flex-wrap">
             <Link href="/cardb"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -93,7 +96,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -113,7 +116,7 @@ const Card = () => {
       </div>
       
       <div className="p-4 md:w-1/3">
-        <div className=" card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className=" card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://apparelresources.com/wp-content/uploads/2017/08/Lifestyle-Store-1.jpg"
@@ -130,7 +133,7 @@ const Card = () => {
             </p>
             <div className="flex items-center flex-wrap ">
             <Link href="/cardc"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -145,7 +148,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -164,7 +167,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className=" card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className="card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9748Bc1wIqmLXoriBoy35GdRgbT6wRf0cuw&s"
@@ -177,11 +180,11 @@ const Card = () => {
             </h1>
             <p className="leading-relaxed mb-3">
             Web 3.0 will interpret content on the web using semantic technologies. As a result, applications and search results
-             will be more intelligent and capable of comprehending users' needs.
+             will be more intelligent and capable of comprehending users needs.
             </p>
             <div className="flex items-center flex-wrap ">
             <Link href="/cardd"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -196,7 +199,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -215,7 +218,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className="card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className="card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://images.unsplash.com/photo-1483058712412-4245e9b90334?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -223,7 +226,7 @@ const Card = () => {
           />
           <div className="p-6">
            
-            <h1 className="title-font text-lg font-medium card-title text-gray-900 mb-3">
+            <h1 className="title-font text-lg font-medium card-title mb-3">
             Machine Learning
             </h1>
             <p className="leading-relaxed mb-3">
@@ -231,7 +234,7 @@ const Card = () => {
             </p>
             <div className="flex items-center flex-wrap ">
             <Link href="/carde"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -246,7 +249,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -265,7 +268,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className="card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className="card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://img.freepik.com/free-vector/illustration-financial-concept_53876-37658.jpg"
@@ -282,7 +285,7 @@ const Card = () => {
             </p>
             <div className="flex items-center flex-wrap ">
             <Link href="/cardf"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -297,7 +300,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -316,7 +319,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className="card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className="card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://images.unsplash.com/photo-1489110804417-276c3f517515?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -332,7 +335,7 @@ const Card = () => {
             </p>
             <div className="flex items-center flex-wrap ">
             <Link href="/cardg"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -347,7 +350,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -366,7 +369,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className="card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className="card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://images.unsplash.com/photo-1432821596592-e2c18b78144f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -383,7 +386,7 @@ const Card = () => {
             </p>
             <div className="flex items-center flex-wrap ">
             <Link href="/cardh"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -398,7 +401,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -417,7 +420,7 @@ const Card = () => {
         </div>
       </div>
       <div className="p-4 md:w-1/3">
-        <div className="card bg-[#ffffff] h-full border-2 border-gray-200 border-opacity-60 rounded-lg overflow-hidden">
+        <div className="card  h-full border-2 border-gray-200  rounded-lg overflow-hidden">
           <img
             className="lg:h-48 md:h-36 w-full object-cover object-center"
             src="https://plus.unsplash.com/premium_photo-1675842663249-a8b70103dbaa?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
@@ -432,8 +435,8 @@ const Card = () => {
             From Python to JavaScript, explore coding tips, new language features, and the best frameworks for modern development.
             </p>
             <div className="flex items-center flex-wrap ">
-            <Link href="/cardi"><button className=" bg-red-500 text-indigo-500 inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
-              <span className="text-gray-400 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
+            <Link href="/cardi"><button className=" inline-flex items-center md:mb-2 lg:mb-0 button button-2">Learn More</button></Link>
+              <span className="text-gray-200 mr-3 inline-flex items-center lg:ml-auto md:ml-0 ml-auto leading-none text-sm pr-3 py-1 border-r-2 border-gray-200">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"
@@ -448,7 +451,7 @@ const Card = () => {
                 </svg>
                 1.2K
               </span>
-              <span className="text-gray-400 inline-flex items-center leading-none text-sm">
+              <span className="text-gray-200 inline-flex items-center leading-none text-sm">
                 <svg
                   className="w-4 h-4 mr-1"
                   stroke="currentColor"

@@ -98,11 +98,11 @@ const Footer = () => {
   </div>
   <div className="bg-[#ffffff]">
     <div className="container px-5 py-6 mx-auto flex items-center sm:flex-row flex-col">
-      <a className="flex title-font font-medium items-center md:justify-start justify-center text-slate-900 font-bold">
+      <a className="flex title-font items-center md:justify-start justify-center text-slate-900 font-bold">
       <span className="ml-3 text-[30px] text-orange-500 font-extrabold font-serif">Blog<span className="text-[#236b9d]">ging</span></span>
        
       </a>
-      <p className="text-[18px] text-slate-900 sm:ml-6 sm:mt-0 mt-4">
+      <p className="text-[18px] text-slate-900 sm:ml-6 sm:mt-0 mt-4 lg:ml-[400px]">
         © 2024 CopyRight
         <a
           href="#"

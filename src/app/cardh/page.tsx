@@ -21,11 +21,11 @@ const Blog = () => {
       A tech conference often includes professional speakers, a series of conference sessions where people can network and improve their skills, workshops and much more.
       Navigating the dynamic world of technology events is necessary for any tech business aiming for success. This involves making strategic decisions about which tech conferences, networking events, and technology industry gatherings to participate in or sponsor.
 
-The allure of attending every high-profile tech event, from top tech events to the most influential tech conferences, is understandable. However, discernment is key. It’s essential to ensure these events align with your company’s objectives, such as technological innovation, brand marketing, or B2B lead generation, and that they offer substantial value. Failure to fully leverage an event’s potential is a missed opportunity.
+The allure of attending every high-profile tech event, from top tech events to the most influential tech conferences, is understandable. However, discernment is key. It is essential to ensure these events align with your company is objectives, such as technological innovation, brand marketing, or B2B lead generation, and that they offer substantial value. Failure to fully leverage an event is potential is a missed opportunity.
 
-Our comprehensive guide covers various aspects of tech events, including the best global conference events, automation and machine learning workshops, the best annual cyber security conference, and startup events. You’ll learn about the importance of meticulous planning, utilizing event intelligence, and how to choose from the biggest tech conferences that resonate with your brand’s goals.
+Our comprehensive guide covers various aspects of tech events, including the best global conference events, automation and machine learning workshops, the best annual cyber security conference, and startup events. You will learn about the importance of meticulous planning, utilizing event intelligence, and how to choose from the biggest tech conferences that resonate with your brand is goals.
 
-Additionally, we’ll provide an extensive list of the biggest tech events, spanning across creative and tech industries, featuring global leaders, tech giants, and emerging technologies. Expect insights on everything from the Open Data Science Conference to the Mobile World Congress, and the unique offerings of each.
+Additionally, we will provide an extensive list of the biggest tech events, spanning across creative and tech industries, featuring global leaders, tech giants, and emerging technologies. Expect insights on everything from the Open Data Science Conference to the Mobile World Congress, and the unique offerings of each.
       </p>
       
     </div>

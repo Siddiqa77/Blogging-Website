@@ -2,38 +2,40 @@
 @tailwind components;
 @tailwind utilities;
 
-  
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
   body{
     background-image: url("https://media4.giphy.com/media/TxVVB6PfWMjE4/200.webp?cid=790b76115yukdt2wm3yja817zqbahr8m0qu27hgnk8ed74f3&ep=v1_gifs_search&rid=200.webp&ct=g");
     color: black;
     
   }
 
-/* .card{
-  transition: transform 0.5s ease-in-out;
-  box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
-  transform: scale(1.03);
-} */
 
 .card {
-  padding-top: 100px;
+  padding-top: 60px;
   transform-style: preserve-3d;
-  background-image: url("https://images.pexels.com/photos/1629236/pexels-photo-1629236.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-image: url("");
   background-position: center center;
-  width: 100%;
+  width: 95%;
   transition: all 0.5s ease-in-out;
   border-radius: 10px;
+  font-family: "Lora", serif;
+
   
   &:hover {
       background-position: 80% 20%;
       transform: rotate3d(0.5, 1, 0, 30deg);
       filter: hue-rotate(150deg);
+      
   }
 }
+p{
+  font-family: "Poppins", sans-serif;
+}
 .card-title {
-  color: white;
+  color: #fff;
   font-size: 25px;
-  font-weight: 900;
+  font-weight: 700;
   transition: all 0.5s ease-in-out;
   transform: translate3d(0px, 0px, 20px);
   &:hover {

@@ -10,10 +10,10 @@ const Contact = () => {
               Contact
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-gray-100">
-              Thank you for visiting Blogging Tech! We’re always excited to
+              Thank you for visiting Blogging Tech! We are always excited to
               connect with our readers, fellow tech enthusiasts, and
               collaborators. Whether you have a question, feedback, or just want
-              to say hello, we’d love to hear from you.
+              to say hello, we would love to hear from you.
             </p>
           </div>
           <div className="lg:w-1/2 md:w-2/3 mx-auto ">
