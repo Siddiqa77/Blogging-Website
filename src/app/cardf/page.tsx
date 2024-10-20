@@ -28,7 +28,7 @@ corporate finance
 public finance.
 If you work in finance, your job may involve investing, lending, budgeting, and forecasting on behalf of individuals, organisations, or governments. Financial practices can 
 include understanding cash flow, profit, interest rates, relationships with shareholders, risk and return, and creating value.
-Economics is a branch of knowledge connected to everyday life in different ways throughout history and societies. It's often concerned with the production, exchange, consumption, and scarcity of wealth and resources.
+Economics is a branch of knowledge connected to everyday life in different ways throughout history and societies. It&apos s often concerned with the production, exchange, consumption, and scarcity of wealth and resources.
 
 As a social science, economics can be used to analyse the behaviour of individuals or groups by looking closer at what makes people act on certain choices. Governments of all countries are advised by 
 economists to implement various policies to run the country well.
